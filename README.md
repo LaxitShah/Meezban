@@ -4,7 +4,7 @@ An online community website created for the purpose of creating a healthy cookin
 
 Meezban is built using the powerful Joomla Framework, incorporating PHP and MySQL to ensure a robust and efficient web experience. The tech stack ensures smooth performance, scalability, and security, guaranteeing a delightful cooking journey for all users.
 
-#Features:
+# Features:
 
 1.Connect and Share: Join our ever-growing community of like-minded individuals who share a passion for nutritious and delicious meals. Create an account, connect with fellow foodies, and dive into a treasure trove of delightful recipes.
 
